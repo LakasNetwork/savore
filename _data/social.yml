@@ -1,0 +1,9 @@
+- name: Email
+  link: mailto:admin@yummytummy.ph
+  icon: fas fa-envelope
+- name: Instagram
+  link: https://www.instagr.am/yummytummy.ph/
+  icon: fab fa-instagram
+- name: YouTube
+  link: https://www.youtube.com/yummytummyph
+  icon: fab fa-youtube
