@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Other Things To Get"
-description: ""
+description: "Once you have the things you NEED, you might want to check other things that can make your transition to Canada easier."
 date:   2023-01-01 
 categories: [Canada Journey]
 published: false
