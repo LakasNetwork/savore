@@ -26,8 +26,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 title: YummyTummy.PH
 description: YummyTummy.PH shares the migration adventures of Coach Rye and Chef Alaine
 # about:
-# about_img:
-navbar_img: 'assets/images/yummytummy-logo-150x45.png'
+about_img: 'assets/images/yummytummyph-about.png'
+navbar_img: 'assets/images/yummytummyph-logo-only.png'
 favicon_img: 'assets/images/yummytummy-logo-TRANSPARENT.png'
 paginate: 5
 exclude_powered_by: true
