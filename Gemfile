@@ -5,3 +5,4 @@ gemspec
 
 # gem "jekyll-theme-cadre"
 gem "jekyll-remote-theme"
+gem "jekyll-redirect-from"

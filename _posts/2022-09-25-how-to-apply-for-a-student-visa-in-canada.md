@@ -5,6 +5,9 @@ description: "Are you planning to get a student visa in Canada? Check out what d
 date:   2022-09-25 
 categories: [Canada Journey]
 image: "/assets/images/thumbnails/YT001 How to Apply for a Student Visa.png"
+redirect_from:
+  - /canada%20journey/2022/09/25/how-to-apply-for-a-student-visa-in-canada.html
+  - /blog/1
 ---
 
 There are many ways to get to Canada. There’s the express entry, the different provincial nominee programs, or an LMIA sponsored by an employer.
