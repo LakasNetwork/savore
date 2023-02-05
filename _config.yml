@@ -34,6 +34,10 @@ exclude_powered_by: true
 google_analytics: G-01NKMJGBR8
 discus: coachrye
 
+permalink: :name
+# permalink: /:year/:month/:day/:title:output_ext
+# permalink: /:categories/:year/:month/:day/:title:output_ext
+
 # Build settings
 # theme: jekyll-theme-cadre
 plugins:
@@ -42,6 +46,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 remote_theme: slee981/jekyll-theme-cadre
 
