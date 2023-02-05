@@ -21,7 +21,7 @@
 
 email: admin@yummytummy.ph
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yummytummy.ph" # the base hostname & protocol for your site, e.g. http://example.com
 
 title: YummyTummy.PH
 description: YummyTummy.PH shares the migration adventures of Coach Rye and Chef Alaine
