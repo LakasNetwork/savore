@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "FOMO is REAL"
-description: "It's always about the company! In this case, the lack of it is what's most challenging about making this kind of journey. There are different levels to it and we want to share this with you to prepare you in your own journey."
+title:  "The Toughest Thing About This Journey"
+description: "To help you prepare for this journey, we wanted to make sure we share the tough times that we have gone through. Yes, we believe in hoping for the best, but we still want to plan for the worst."
 date:   2023-02-12 
 categories: [Canada Journey]
 image: ""
