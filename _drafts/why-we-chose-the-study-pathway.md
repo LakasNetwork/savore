@@ -2,10 +2,9 @@
 layout: post
 title:  "Study Pathway"
 description: ""
-date:   2000-01-01 
+# date:   2000-01-01 
 categories: [Canada Journey]
 image: ""
-published: false
 ---
 
 # School: Why this pathway?
