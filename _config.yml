@@ -34,6 +34,9 @@ exclude_powered_by: true
 google_analytics: G-01NKMJGBR8
 discus: coachrye
 
+# https://www.fizerkhan.com/blog/posts/working-with-upcoming-posts-in-jekyll
+future: false
+show_drafts: false
 permalink: :name
 # permalink: /:year/:month/:day/:title:output_ext
 # permalink: /:categories/:year/:month/:day/:title:output_ext
