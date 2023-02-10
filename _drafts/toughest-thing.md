@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Toughest Thing"
-description: ""
-date:   2000-01-01 
+title:  "FOMO is REAL"
+description: "It's always about the company! In this case, the lack of it is what's most challenging about making this kind of journey. There are different levels to it and we want to share this with you to prepare you in your own journey."
+date:   2023-02-12 
 categories: [Canada Journey]
 image: ""
-published: false
 ---
 
 ## Intro
