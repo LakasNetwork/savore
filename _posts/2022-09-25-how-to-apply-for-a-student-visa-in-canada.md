@@ -3,8 +3,9 @@ layout: post
 title:  "How to Apply for a Student Visa in Canada?"
 description: "Are you planning to get a student visa in Canada? Check out what documents you need to prepare for your journey. Good luck!"
 date:   2022-09-25 
-categories: [Canada Journey]
-image: "/assets/images/thumbnails/YT001 How to Apply for a Student Visa.png"
+author: rye
+categories: [canada journey]
+image: assets/images/thumbnails/YT001 How to Apply for a Student Visa.png
 redirect_from:
   - /canada%20journey/2022/09/25/how-to-apply-for-a-student-visa-in-canada.html
   - /blog/1

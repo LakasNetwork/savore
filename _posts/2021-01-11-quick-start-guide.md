@@ -2,7 +2,7 @@
 layout: post
 title: Quick Start Guide
 author: Stephen Lee
-categories: [general, tutorial, jekyll]
+categories: [sample]
 toc: true
 published: false
 ---

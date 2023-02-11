@@ -4,6 +4,3 @@
 .sass-cache
 _site
 Gemfile.lock
-
-# for testing
-**/.DS_Store

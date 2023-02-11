@@ -3,8 +3,9 @@ layout: post
 title: "Other Essentials in Your New Journey"
 description: "Once you have the things you NEED, you also want to take care of these essentials to make your new journey more convenient."
 date:  2023-02-05 
-categories: [Canada Journey]
-image: "/assets/images/thumbnails/YT003 Other Essentials.png"
+author: rye
+categories: [canada journey]
+image: assets/images/thumbnails/YT003 Other Essentials.png
 published: true
 redirect_from:
   - /canada%20journey/2023/02/05/other-things-to-get.html

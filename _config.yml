@@ -1,75 +1,66 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-
-email: admin@yummytummy.ph
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yummytummy.ph" # the base hostname & protocol for your site, e.g. http://example.com
-
-title: YummyTummy.PH
-description: YummyTummy.PH shares the migration adventures of Coach Rye and Chef Alaine
-# about:
-about_img: 'assets/images/yummytummyph-about.png'
-navbar_img: 'assets/images/yummytummyph-logo-only.png'
-favicon_img: 'assets/images/yummytummy-logo-TRANSPARENT.png'
-paginate: 5
-exclude_powered_by: true
-google_analytics: G-01NKMJGBR8
-discus: coachrye
-
-# https://www.fizerkhan.com/blog/posts/working-with-upcoming-posts-in-jekyll
-future: false
-show_drafts: false
+title: "Affiliates"
+email: wowthemesnet@gmail.com
+timezone: UTC
+baseurl: ""
+# permalink: "/:title/"
 permalink: :name
-# permalink: /:year/:month/:day/:title:output_ext
-# permalink: /:categories/:year/:month/:day/:title:output_ext
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: yt
+paginate: 30
+disqus: 'demowebsite'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-113961478-1
+remote_theme: wowthemesnet/affiliates-jekyll-theme
 
-# Build settings
-# theme: jekyll-theme-cadre
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-redirect-from
+# Authors
+authors:
+  yt:
+    name: Yummy and Tummy
+    display_name: Yummy and Tummy
+    avatar: 'assets/images/sal.png'
+    email: admin@yummytummy.ph
+    web: https://www.yummytummy.ph
+    twitter: https://twitter.com/yummytummyph
+    description: "We are Yummy and Tummy"
+  alaine:
+    name: Alaine
+    display_name: Chef A
+    avatar: 'assets/images/john.png'
+    email: chef@yummytummy.ph
+    web: https://instagram.com/chefalaine
+    twitter: https://twitter.com/chefalaine
+    description: "Hi! I'm Chef Alaine."
+  rye:
+    name: Ryan
+    display_name: Coach Rye
+    avatar: 'assets/images/john.png'
+    email: rye@coachrye.com
+    web: https://instagram.com/coachrye
+    twitter: https://twitter.com/coachrye34
+    description: "Hi! I'm Coach Rye."
 
-remote_theme: slee981/jekyll-theme-cadre
+# Social
+social:
+  instagram: https://www.instagram.com/bootstrapstarter/
+  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
+  twitter: https://twitter.com/bstartercom
 
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
