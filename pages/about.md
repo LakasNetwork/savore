@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: Yummy and Tummy
 permalink: "/about/"
-image: assets/images/screenshot.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+Hi! We are Yummy (Chef Alaine) and Tummy (Coach Rye). 
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
-
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
-
+We reinvented this site when we decided to make the move from The Philippines 🇵🇭 to Canada 🇨🇦. We hope this will help those are who on the same journey, or those thinking of doing it as well. 
+<hr>
+👩🏻‍🍳 Hi! Chef Alaine here. If you want to get to know me more, check out my portfolio [here](/chefalaine).
+<hr>
+👨🏻‍💻 Hello! This is Coach Rye. Feel free to check out my <a href="https://coachrye.github.io/about" target="_blank">website</a> to know more about me. 
