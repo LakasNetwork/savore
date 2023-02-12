@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "The Toughest Thing About This Journey"
-description: "To help you prepare for this journey, we wanted to make sure we share the tough times that we have gone through. Yes, we believe in hoping for the best, but we still want to plan for the worst."
-date:   2023-02-12
-categories: [Canada Journey]
-image: ""
+layout:        post
+title:         "The Toughest Thing About This Journey"
+description:   "To help you prepare, we want to make sure we share the tough times that we've gone through. So you can prepare for them too."
+date:          2023-02-12 07:34:00 -05:00:00
+author:        yt
+categories:    [canada journey]
+image:         assets/images/thumbnails/YT-004.jpg
 ---
 
 ## Intro
