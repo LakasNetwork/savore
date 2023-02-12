@@ -23,6 +23,8 @@ sass:
   style: :compressed
 ganalytics: G-01NKMJGBR8
 remote_theme: wowthemesnet/affiliates-jekyll-theme
+future: false
+show_drafts: false
 
 # Authors
 authors:
@@ -64,3 +66,4 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-archives
+- jekyll-redirect-from

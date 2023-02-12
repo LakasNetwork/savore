@@ -2,7 +2,7 @@
 layout: post
 title:  "The Toughest Thing About This Journey"
 description: "To help you prepare for this journey, we wanted to make sure we share the tough times that we have gone through. Yes, we believe in hoping for the best, but we still want to plan for the worst."
-date:   2023-02-12 
+date:   2023-02-12
 categories: [Canada Journey]
 image: ""
 ---
