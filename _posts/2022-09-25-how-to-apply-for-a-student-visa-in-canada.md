@@ -5,7 +5,7 @@ description: "Are you planning to get a student visa in Canada? Check out what d
 date:   2022-09-25 
 author: rye
 categories: [canada journey]
-image: assets/images/thumbnails/YT001 How to Apply for a Student Visa.png
+image: assets/images/thumbnails/YT-001.jpg
 redirect_from:
   - /canada%20journey/2022/09/25/how-to-apply-for-a-student-visa-in-canada.html
   - /blog/1

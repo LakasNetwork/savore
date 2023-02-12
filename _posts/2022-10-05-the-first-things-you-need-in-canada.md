@@ -5,7 +5,7 @@ description: "Once you land in Canada, here are the first things you NEED to do.
 date:   2022-10-05 
 author: rye
 categories: [canada journey]
-image: assets/images/thumbnails/YT002 The First Things You Need In Canada.png
+image: assets/images/thumbnails/YT-002.jpg
 redirect_from:
   - /canada%20journey/2022/10/05/the-first-things-you-need-in-canada.html
   - /blog/2
