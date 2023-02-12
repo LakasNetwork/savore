@@ -6,6 +6,8 @@ date:          2023-02-12 07:34:00 -05:00:00
 author:        yt
 categories:    [canada journey]
 image:         assets/images/thumbnails/YT-004.jpg
+redirect_from:
+  - /blog/4
 ---
 
 ## Intro
