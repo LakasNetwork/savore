@@ -6,7 +6,9 @@ permalink: "/about/"
 
 Hi! We are Yummy (Chef Alaine) and Tummy (Coach Rye). 
 
-We reinvented this site when we decided to make the move from The Philippines 🇵🇭 to Canada 🇨🇦. We hope this will help those are who on the same journey, or those thinking of doing it as well. 
+![Chef & Coach in Niagara](/assets/images/yt-about.jpg)
+
+We overhauled this site when we decided to move from The Philippines 🇵🇭 to Canada 🇨🇦. We hope this will help those are who on the same journey, or those thinking of doing it as well. 
 <hr>
 👩🏻‍🍳 Hi! Chef Alaine here. If you want to get to know me more, check out my portfolio [here](/chefalaine).
 <hr>
