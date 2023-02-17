@@ -18,6 +18,9 @@ Let's get the CONS out of the way.
 
 ## Expensive
 
+This is  one of the more expensive pathways going to Canada. College tuition in Canada is no joke. Yes, they have different schemes/plans on how you want to pay your tuition but it is still a lot of money up front. Not only do you need to have money for your education, you also need to have your [show money or proof of financial support](/2022-09-25-how-to-apply-for-a-student-visa-in-canada#proof-of-financial-support)! 
+
+<small>"Fun fact" about [Internation vs Domestic Tuition](https://www.centennialcollege.ca/international-education/tuition-and-fees/international-vs-domestic-tuition).</small>
 
 ## Longer Route
 
