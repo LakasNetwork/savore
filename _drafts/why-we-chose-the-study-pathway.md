@@ -7,12 +7,14 @@ author:        yt
 categories:    [canada journey]
 image:         assets/images/thumbnails/YT-005.jpg
 redirect_from:
-  - /blog/
+  - /blog/5
 ---
 
 There are so many ways to get your immigration journey started. We will try to talk about the rest in the coming days but, for now, we will focus on the path that we took. 
 
-The International Student Pathway!
+> The International Student Pathway!
+
+# Cons
 
 Let's get the CONS out of the way.
 
@@ -24,29 +26,46 @@ This is  one of the more expensive pathways going to Canada. College tuition in 
 
 ## Longer Route
 
-Longer (before you become PR)
+Another downside to this pathway is that it will typically take longer for you to be a permanent residence. First, you'll need to complete your studies so that's already a year at the minimum -- because the recommended time frame is 2 years. After that, you'll need to apply for a Post Graduate Work Permit (PGWP) which will probably be another two years. During that time you will have to retain a good standing in order to quality for the different PR pathways available. 
 
 ## Limited Working Hours 
 
-This may be outdated though since there's a push from the government to allow students to work more hours, because they need more workers!
+This is a disadvantage because, simply put, the cost of living in Canada is not cheap. The more hours you can work, the better. 
 
+Note: This may be outdated though since there's a push from the government to allow students to work more hours, because they need more workers! Hopefully, this policy remains.
 
+# Pros
 
 Now, let's get to the good stuff!
 
 ## Easier
 
-AGE!
+Aside from the financial aspect, this is the easier pathway to be approved in. I mean, sure, there are still [lot's of requirements](/blog/1) but, at least you don't have to go through the point system. Now, if you are like ~~us~~ me, you might HAVE to take this option because my age equated to ZERO points in the system. 
+
+Besides, the longer we wait, the tougher it might become.
 
 ## Chance to Reinvent
 
--   You can re-choose your career path, and the Canadian education you get puts you on the path
-    -   Internship
-    -   THought: split this into two points
+We realized this when we were deciding who should study (again).
+
+Initially, we wanted me (Ryan) to study and take a program on Information Technology. However, after some discussion, we decided it was the best for Alaine to study instead. Yes, she has already established herself as a businesswoman and chef in Manila, but she always wanted more "technical knowledge". We felt this was the perfect opportunity for her to do that.
+
+We also know of others who did exactly what we did. Others who later on in life realized they had a different passion, from their degree. 
 
 ## Network
 
--   Build your network / mentorship
-    -   You can use your experience too!
+There are a lucky few who already have a good network (of friends and family) here when they land, but for most newcomers this is simply not the case. Being in a program allows you to build your network. 
 
+Take the time to get to know your teachers, ask them to mentor you. Build relationships with your classmates, help each other be successful. Take advantage of the stage or internship to build your reputation. 
 
+Starting from scratch is tough. Use your school's network to your advantage. 
+
+# Up To You
+
+Obviously, it was not really much of an option for us because of the age thing. Still, we hope this allows you to consider the Student Pathway as your entry point into Canada. 
+
+One final point about the Student Pathway. 
+
+Although we were all in about the move to Canada, we felt that there are so many things that were not in our control. What if Canada somehow closes their doors to immigrants? What if we do not fit in to the life here? Despite these uncertainties, we knew that a Canadian degree is an asset worldwide, and that the world will be more open to us. 
+
+Good luck in your own journey! 🛫
