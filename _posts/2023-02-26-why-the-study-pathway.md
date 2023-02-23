@@ -1,8 +1,8 @@
 ---
 layout:        post
-title:         "Our Reasons for Taking the Student Pathway"
-description:   ""
-date:          
+title:         "Why we took the Student Pathway"
+description:   "Let's take a look at the PROs and CONs of the interanational student pathway. Hopefully, this'll help you decide. Check it out!"
+date:          2023-02-26 04:34:00 -05:00:00
 author:        yt
 categories:    [canada journey]
 image:         assets/images/thumbnails/YT-005.jpg
