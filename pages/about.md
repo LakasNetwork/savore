@@ -12,8 +12,8 @@ We overhauled this site when we decided to move from The Philippines 🇵🇭 to
 
 <table>
 <tr>
-<td class="tdabout aboutchef">👩🏻‍🍳 Hi! Chef Alaine here. If you want to get to know me more, check out my portfolio [here](/chefalaine).</td>
-<td class="tdabout aboutcoach">👨🏻‍💻 Hello! This is Coach Rye. Feel free to check out my <a href="https://coachrye.github.io/about" target="_blank">website</a> to know more about me. 
+<td class="tdabout aboutchef">👩🏻‍🍳 Hi! Chef Alaine here. If you want to get to know me more, check out my portfolio <a href="/chefalaine">here</a>.</td>
+<td class="tdabout aboutcoach">👨🏻‍💻 Hello! This is Coach Rye. Feel free to check out my <a href="https://coachrye.com/about" target="_blank">website</a> to know more about me. 
 </td>
 </tr>
 </table>
