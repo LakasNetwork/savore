@@ -1,10 +1,15 @@
 ---
-layout:        page
+layout:        post
 title:         "[Recipe] Burger"
 description:   "Coach Rye's first time to make homemade burger, and he decided (was forced) to tweak the recipe he got."
+date:          2023-03-11 18:54:00 -05:00:00
 author:        yt
-categories:    [recipe]
-permalink:     "/recipes/burgerXXX"
+categories:    [ recipe ]
+image:         assets/images/recipes/Recipe-Burger.jpg
+redirect_from:
+  - /recipes/burger
+comments: false
+hidden: true
 ---
 
 <div class="container">
