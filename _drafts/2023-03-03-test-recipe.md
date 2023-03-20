@@ -3,6 +3,8 @@ layout:        recipe
 title:         "Homemade Burger"
 description:   "Coach Rye's first time to make homemade burger, and he decided (was forced) to tweak the recipe he got."
 serving_size:  "2 to 4 pax"
+prep_time:     "10 mins"
+cooking_time:  "5 mins each"
 date:          2023-03-11 18:54:00 -05:00:00
 author:        yt
 categories:    [ recipe ]
