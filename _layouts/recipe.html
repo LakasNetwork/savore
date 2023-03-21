@@ -12,7 +12,7 @@ post_class: post-template
 
 		<!-- Post -->        
         {% assign author = site.authors[page.author] %}        
-		<div class="col-lg-12">
+		<div class="col-sm-12">
             <!-- Post Featured Image -->
 			<!-- if page.image %}<img class="featured-image img-fluid rounded m-auto" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}"> endif %} --> 
 			<!-- End Featured Image -->
@@ -34,38 +34,7 @@ post_class: post-template
                 <!-- Post Title -->
 				<h1 class="posttitle">{{ page.title }}</h1> 
                 
-			</div>
-
-
-
-            <div class="container">
-                <div class="card-deck mb-3 text-center">
-                    <div class="card mb-4 box-shadow">
-                        <div class="card-header">
-                        <h4 class="mb-0">Serving Size</h4>
-                        </div>
-                        <div class="card-body d-flex flex-column">
-                        <p>{{ page.serving_size }}</p>
-                        </div>
-                    </div>
-                    <div class="card mb-4 box-shadow">
-                        <div class="card-header">
-                        <h4 class="mb-0">Prep Time</h4>
-                        </div>
-                        <div class="card-body d-flex flex-column">
-                        <p>{{ page.prep_time }}</p>
-                        </div>
-                    </div>
-                    <div class="card mb-4 box-shadow">
-                        <div class="card-header">
-                        <h4 class="mb-0">Cooking Time</h4>
-                        </div>
-                        <div class="card-body d-flex flex-column">
-                        <p>{{ page.cooking_time }}</p>
-                        </div>
-                    </div>
-                </div>
-            </div>  
+			</div>  
 
 			<!-- Post Content -->
 			<div class="article-post serif-font">
@@ -137,7 +106,7 @@ post_class: post-template
 
 		<!-- Sidebar 
         <div class="col-sm-4">
-            {% include sidebar.html %}
+            { include sidebar.html }
             </div> -->
         
         
