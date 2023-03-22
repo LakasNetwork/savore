@@ -1,61 +1,29 @@
 ---
-layout:        recipe
-title:         "Homemade Burger"
-description:   "Coach Rye's first time to make homemade burger, and he decided (was forced) to tweak the recipe he got."
-serving_size:  "2 to 4 pax"
-prep_time:     "10 mins"
-cooking_time:  "5 mins each"
-date:          2023-03-11 18:54:00 -05:00:00
-author:        yt
-categories:    [ recipe ]
-image:         assets/images/recipes/Recipe-Burger.jpg
+layout:           recipe
+title:            "Homemade Burger"
+description:      "Coach Rye's first time to make homemade burger, and he decided (was forced) to tweak the recipe he got."
+introduction:     "<p>It was my first time to make homemade burger... and my first time to cook something here besides frying egg and spam! 😅</p>
+                   <p>Although, I had to tweak the recipe because I was missing some ingredients, it still turned out well. I think! The twist gave it that distinct Pinoy taste!</p>"
+intro_image:      assets/images/recipes/Recipe-Burger.gif
+intro_image_alt:  Burger by Rye
+serving_size:     "2 to 4 pax"
+prep_time:        "10 mins"
+cooking_time:     "5 mins each"
+date:             2023-03-11 18:54:00 -05:00:00
+last_modified_at: 
+author:           yt
+categories:       [ recipe ]
+tags:             [ meat ]
+image:            assets/images/recipes/Recipe-Burger.jpg
 redirect_from:
   - /recipes/burger
-comments: false
+comments:         false
 ---
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-8">
-<p>It was my first time to make homemade burger... and my first time to cook something here besides frying egg and spam! 😅 </p>
-<p>Although, I had to tweak the recipe because I was missing some ingredients, it still turned out well. I think! The twist gave it that distinct Pinoy taste!</p>
-    </div>
-    <div class="col-sm-4">
-      <img src="/assets/images/recipes/Recipe-Burger.gif" alt="Burger by Rye">
-    </div>
-  </div>
-</div>
-
-<div class="container mb-0">
-    <div class="card-deck mb-0 text-center">
-        <div class="card mb-4 box-shadow">
-            <div class="card-header"><strong>Serving Size</strong>
-            </div>
-            <div class="card-body d-flex flex-column">
-            <p>{{ page.serving_size }}</p>
-            </div>
-        </div>
-        <div class="card mb-4 box-shadow">
-            <div class="card-header"><strong>Prep Time</strong>
-            </div>
-            <div class="card-body d-flex flex-column">
-            <p>{{ page.prep_time }}</p>
-            </div>
-        </div>
-        <div class="card mb-4 box-shadow">
-            <div class="card-header"><strong>Cooking Time</strong>
-            </div>
-            <div class="card-body d-flex flex-column">
-            <p>{{ page.cooking_time }}</p>
-            </div>
-        </div>
-    </div>
-</div>  
-
-<div class="container">
-  <div class="row">
-    <div class="col-sm-5">
-    <h2 class="mt-0">Ingredients</h2>
+    <div class="col-lg-5 mt-3">
+    <h2 class="mt-0 p-1 text-center text-white bg-dark">Ingredients</h2>
     <ul>
     <li>Ground beef: I used the pure lean beef that we got. For juicier results, the 80/20 lean-to-fat ratio works best</li>
     <li>Crushed crackers: the perfect binders
@@ -82,8 +50,8 @@ comments: false
     </ul>
     <small><em>Unfortunately, I can't give you the proper amounts since I used the <u>tsamba-tsamba</u>, i.e. the guessing game, method!</em></small>
     </div>
-    <div class="col-sm-7">
-    <h2 class="mt-0">Instructions</h2>
+    <div class="col-lg-7 mt-3">
+    <h2 class="mt-0 p-1 text-center text-white bg-dark">Instructions</h2>
     <ol>
       <li>Dump the ground beef, crushed crackers, egg, Knorr Liquid seasoning, milk, and spices into a large mixing bowl<ul>
         <li><small>Use your hands (preferrably unwashed for extra flavour 😅) and thoroughly mix ingredients until smooth</small></li>
