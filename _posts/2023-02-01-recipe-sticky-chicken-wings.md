@@ -17,6 +17,7 @@ image:            assets/images/recipes/recipe-placeholder-thumb.jpg
 redirect_from:
   - /recipes/template
 comments:         false
+hidden:           false
 ---
 
 <div class="container">
