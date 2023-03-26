@@ -10,10 +10,10 @@ date:             2023-02-01 18:54:00 -05:00:00
 last_modified_at: 
 author:           alaine
 categories:       [ recipe ]
-tags:             [  ]
+tags:             [ chicken, quick n' easy, snack ]
 image:            assets/images/recipes/Recipe-Sticky-Chicken-Wings.jpg
 redirect_from:
-  - /recipes/template
+  - /recipes/sticky-chicken-wings
 hidden:           true
 comments:         false
 ---
