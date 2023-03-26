@@ -3,8 +3,6 @@ layout:           recipe
 title:            "Sticky Chicken Wings"
 description:      ""
 introduction:     ""
-intro_image:      assets/images/recipes/recipe-placeholder-intro.jpg
-intro_image_alt:  ""
 serving_size:     "4 to 6"
 prep_time:        "5 mins w/o marination"
 cooking_time:     "10 mins"
@@ -13,7 +11,7 @@ last_modified_at:
 author:           yt
 categories:       [ recipe ]
 tags:             [  ]
-image:            assets/images/recipes/recipe-placeholder-thumb.jpg
+image:            assets/images/recipes/Recipe-Sticky-Chicken-Wings.jpg
 redirect_from:
   - /recipes/template
 comments:         false
