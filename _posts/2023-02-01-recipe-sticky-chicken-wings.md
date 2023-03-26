@@ -1,21 +1,21 @@
 ---
 layout:           recipe
 title:            "Sticky Chicken Wings"
-description:      ""
+description:      "Check out this quick n' easy sticky chicken wing recipe. Perfect for game nights with the gang, or movie nights with the fam!"
 introduction:     ""
 serving_size:     "4 to 6"
 prep_time:        "5 mins w/o marination"
 cooking_time:     "10 mins"
 date:             2023-02-01 18:54:00 -05:00:00
 last_modified_at: 
-author:           yt
+author:           alaine
 categories:       [ recipe ]
 tags:             [  ]
 image:            assets/images/recipes/Recipe-Sticky-Chicken-Wings.jpg
 redirect_from:
   - /recipes/template
+hidden:           true
 comments:         false
-hidden:           false
 ---
 
 <div class="container">

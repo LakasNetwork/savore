@@ -39,18 +39,20 @@ post_class: post-template
 
         <!-- Post Content -->
         <div class="article-post serif-font">
-            {% if page.introduction != "" %}
             <div class="container">
                 <div class="row">
                     <div class="col-sm-8">
-                        {{ page.introduction }}
+                        {% if page.introduction != "" %}
+                            {{ page.introduction }}
+                        {% else %}
+                            {{ page.description }}
+                        {% endif %}
                     </div>
                     <div class="col-sm-4">
                         <img src="{{ page.image }}" alt="{{ page.title }}">
                     </div>
                 </div>
             </div>
-            {% endif %}
 
             <div class="container mb-0">
                 <div class="card-deck mb-0 text-center">
