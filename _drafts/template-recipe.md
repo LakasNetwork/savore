@@ -3,8 +3,6 @@ layout:           recipe
 title:            ""
 description:      ""
 introduction:     ""
-intro_image:      assets/images/recipes/recipe-placeholder-intro.jpg
-intro_image_alt:  ""
 serving_size:     ""
 prep_time:        ""
 cooking_time:     ""
@@ -16,6 +14,7 @@ tags:             [  ]
 image:            assets/images/recipes/recipe-placeholder-thumb.jpg
 redirect_from:
   - /recipes/template
+hidden:           true
 comments:         false
 ---
 
