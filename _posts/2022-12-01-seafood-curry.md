@@ -20,7 +20,7 @@ comments:         false
 
 <div class="container">
   <div class="row">
-    <div class="col-lg-5 mt-3">
+    <div class="col-lg-6 mt-3">
     <h2 class="mt-0 p-1 text-center text-white bg-dark">Ingredients</h2>
     <div class="container">
         <div class="row text-white bg-secondary font-weight-bold">
@@ -36,54 +36,170 @@ comments:         false
         </div>
         <div class="row">
             <div class="col-lg-3">
+            2 
+            </div>
+            <div class="col-lg-3">
+            tablespoons 
+            </div>
+            <div class="col-lg-6">
+            vegetable oil
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3">
+            2 
+            </div>
+            <div class="col-lg-3">
+            Pieces
+            </div>
+            <div class="col-lg-6">
+            Medium white onions<br/><small class="small">(thinly sliced)</small>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3">
             1
             </div>
             <div class="col-lg-3">
-            Kilo
+            Piece
             </div>
             <div class="col-lg-6">
-            Boneless Milkfish Belly
+            large fish boullion
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3">
+             2 
+            </div>
+            <div class="col-lg-3">
+            tablespoons 
+            </div>
+            <div class="col-lg-6">
+            red curry paste
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3">
+            1 
+            </div>
+            <div class="col-lg-3">
+            28-ounce can 
+            </div>
+            <div class="col-lg-6">
+            coconut milk (gata)
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3">
+            3 
+            </div>
+            <div class="col-lg-3">
+            tablespoons
+            </div>
+            <div class="col-lg-6">
+            brown sugar
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3">
+            3 to 4
+            </div>
+            <div class="col-lg-3">
+            teaspoons
+            </div>
+            <div class="col-lg-6">
+            fish sauce (patis)
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3">
+             3
+            </div>
+            <div class="col-lg-3">
+            cups
+            </div>
+            <div class="col-lg-6">
+            water
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3">
+            250
+            </div>
+            <div class="col-lg-3">
+            grams
+            </div>
+            <div class="col-lg-6">
+            squash (peeled and sliced into 3/4-inch pieces)
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3">
+            1
+            </div>
+            <div class="col-lg-3">
+            28-ounce can
+            </div>
+            <div class="col-lg-6">
+            straw mushrooms (drained, rinsed and sliced into halves, if preferred)
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3">
+            400
+            </div>
+            <div class="col-lg-3">
+            grams 
+            </div>
+            <div class="col-lg-6">
+            tanguigue steak, sliced into 1-inch cubes
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3">
+            300 
+            </div>
+            <div class="col-lg-3">
+            grams
+            </div>
+            <div class="col-lg-6">
+            medium-size shrimps (pang-halabos), peeled
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3">
+            300 
+            </div>
+            <div class="col-lg-3">
+            grams
+            </div>
+            <div class="col-lg-6">
+            squid, cleaned and sliced into 1-inch pieces
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3">
+            300 
+            </div>
+            <div class="col-lg-3">
+            grams
+            </div>
+            <div class="col-lg-6">
+            baby bok choy, washed and torn into halves 
             </div>
         </div>
     </div>
-    <small><em>Unfortunately, I can't give you the proper amounts since I used the <u>tsamba-tsamba</u>, i.e. the guessing game, method!</em></small>
     </div>
-    <div class="col-lg-7 mt-3">
+    <div class="col-lg-6 mt-3">
     <h2 class="mt-0 p-1 text-center text-white bg-dark">Instructions</h2>
     <ol>
-      <li>Step 1</li>
-      <li>Step 2</li>
+      <li>In a large pot over medium heat, sauté onions in vegetable oil until softened. Add the boullion, red curry paste, coconut milk, brown sugar, and patis. Bring the mixture to a boil until you begin to see red splotches of oil pooling on the surface. Add the water and lower the flame to medium-low, keeping the mixture at a consistent simmer.</li>
+      <li>Add the squash and mushrooms, and let simmer for 10 to 15 minutes.</li>
+      <li>Add the cubed fish, shrimps, and squid; simmer for an additional 4 to 5 minutes or until seafood are cooked through.</li>
+      <li>Turn off the heat and place the baby bok choy on top of the stew, pressing the vegetables down with a spoon. Cover the pot with a lid; it will take 3 to 4 minutes for the bok choy to wilt. Stir through the mixture once, taste; add fish sauce to taste.</li>
+      <li>Serve with hot steamed rice.</li>
     </ol>
     </div>
   </div>
 </div>
 
-
-
-
- Serves 6  
- Prep Time   
- Cook Time 20 to 25 minutes  
-
-
- 2 tablespoons vegetable oil
- 2 medium white onions, sliced thinly
- 1 large fish boullion
- 2 tablespoons red curry paste
- 1 28-ounce can coconut milk (gata)
- 3 tablespoons brown sugar
- 3 to 4 teaspoons fish sauce (patis)
- 3 cups water
- 250 grams squash, peeled and sliced into
- 3/4-inch pieces
- one 28-ounce can straw mushrooms, drained, rinsed (slice into halves, if preferred)
- 400 grams tanguigue steak, sliced into 1-inch cubes
- 300 grams medium-size shrimps (pang-halabos), peeled
- 300 grams squid, cleaned and sliced into 1-inch pieces
- 300 grams baby bok choy, washed and torn into halves 
-
- 1. In a large pot over medium heat, sauté onions in vegetable oil until softened. Add the boullion, red curry paste, coconut milk, brown sugar, and patis. Bring the mixture to a boil until you begin to see red splotches of oil pooling on the surface. Add the water and lower the flame to medium-low, keeping the mixture at a consistent simmer.
- 2. Add the squash and mushrooms, and let simmer for 10 to 15 minutes.
- 3. Add the cubed fish, shrimps, and squid; simmer for an additional 4 to 5 minutes or until seafood are cooked through.
- 4. Turn off the heat and place the baby bok choy on top of the stew, pressing the vegetables down with a spoon. Cover the pot with a lid; it will take 3 to 4 minutes for the bok choy to wilt. Stir through the mixture once, taste; add fish sauce to taste.
- 5. Serve with hot steamed rice.
