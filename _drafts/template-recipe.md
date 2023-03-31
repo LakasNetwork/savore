@@ -1,6 +1,6 @@
 ---
 layout:           recipe
-title:            ""
+title:            "TEMPLATE"
 description:      ""
 introduction:     ""
 serving_size:     ""
@@ -23,7 +23,7 @@ comments:         false
     <div class="col-lg-5 mt-3">
     <h2 class="mt-0 p-1 text-center text-white bg-dark">Ingredients</h2>
     <div class="container">
-        <div class="row">
+        <div class="row text-white bg-secondary font-weight-bold">
             <div class="col-lg-3">
             Qty
             </div>
@@ -32,6 +32,17 @@ comments:         false
             </div>
             <div class="col-lg-6">
             Item
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3">
+            1
+            </div>
+            <div class="col-lg-3">
+            Kilo
+            </div>
+            <div class="col-lg-6">
+            Boneless Milkfish Belly
             </div>
         </div>
     </div>
