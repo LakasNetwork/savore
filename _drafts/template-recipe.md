@@ -24,35 +24,21 @@ comments:         false
     <h2 class="mt-0 p-1 text-center text-white bg-dark">Ingredients</h2>
     <div class="container">
         <div class="row text-white bg-secondary font-weight-bold">
-            <div class="col-lg-3">
-            Qty
-            </div>
-            <div class="col-lg-3">
-            Unit
-            </div>
-            <div class="col-lg-6">
-            Item
-            </div>
+            <div class="col-lg-2">Qty</div>
+            <div class="col-lg-3">Unit</div>
+            <div class="col-lg-7">Item</div>
         </div>
         <div class="row">
-            <div class="col-lg-3">
-            1
-            </div>
-            <div class="col-lg-3">
-            Kilo
-            </div>
-            <div class="col-lg-6">
-            Boneless Milkfish Belly
-            </div>
+            <div class="col-lg-2">QTYUNO</div><div class="col-lg-3">UNITUNO</div><div class="col-lg-7">ITEMUNO</div>
         </div>
     </div>
-    <small><em>Unfortunately, I can't give you the proper amounts since I used the <u>tsamba-tsamba</u>, i.e. the guessing game, method!</em></small>
+    <small class="text-danger"><em>Unfortunately, I can't give you the proper amounts since I used the <u>tsamba-tsamba</u>, i.e. the guessing game, method!</em></small>
     </div>
     <div class="col-lg-7 mt-3">
     <h2 class="mt-0 p-1 text-center text-white bg-dark">Instructions</h2>
     <ol>
-      <li>Step 1</li>
-      <li>Step 2</li>
+      <li>StepStep</li>
+      <li>StepStep</li>
     </ol>
     </div>
   </div>
