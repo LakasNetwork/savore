@@ -28,9 +28,7 @@ comments:         false
             <div class="col-lg-3">Unit</div>
             <div class="col-lg-7">Item</div>
         </div>
-        <div class="row">
-            <div class="col-lg-2">QTYUNO</div><div class="col-lg-3">UNITUNO</div><div class="col-lg-7">ITEMUNO</div>
-        </div>
+        <div class="row"><div class="col-lg-2">QTYUNO</div><div class="col-lg-3">UNITUNO</div><div class="col-lg-7">ITEMUNO</div></div>
     </div>
     <small class="text-danger"><em>Unfortunately, I can't give you the proper amounts since I used the <u>tsamba-tsamba</u>, i.e. the guessing game, method!</em></small>
     </div>
