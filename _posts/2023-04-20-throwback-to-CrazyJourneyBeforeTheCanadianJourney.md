@@ -14,7 +14,7 @@ redirect_from:
 
 "Man, I envy your stories. Mine was so boring, " said G when Alaine and I shared our Canadian journey stories, during our meetup with other iCanada clients.
 
-*Note: If you are also planning to go to Canada, just hit the link on the right to get your journey started with iCanada. This is NOT a paid link, just a way for us to pay forward.*
+*Note: If you are also planning to go to Canada, just hit the link on the right to get your journey started with iCanada. This is NOT a paid link, just a way for us to pay it forward.*
 
 From selling all our stuff even before our visa approval to the crazy DFA stories to the 2-week rush from visa approval to our flight.
 
