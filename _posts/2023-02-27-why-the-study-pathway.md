@@ -5,6 +5,7 @@ description:   "Let's take a look at the PROs and CONs of the interanational stu
 date:          2023-02-27 18:54:00 -05:00:00
 author:        yt
 categories:    [canada journey]
+tags:          [ iCanada, International Student ]
 image:         assets/images/thumbnails/YT-005.jpg
 redirect_from:
   - /blog/5

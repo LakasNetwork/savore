@@ -5,6 +5,7 @@ description: "Are you planning to get a student visa in Canada? Check out what d
 date:   2022-09-25 
 author: yt
 categories: [canada journey]
+tags:       [ iCanada, Internation Student ]
 image: assets/images/thumbnails/YT-001.jpg
 redirect_from:
   - /canada%20journey/2022/09/25/how-to-apply-for-a-student-visa-in-canada.html
