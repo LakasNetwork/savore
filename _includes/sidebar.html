@@ -3,8 +3,29 @@
         <h5><span>Newsletter</span></h5>
         {% include newsletter.html %}
     </div>
-    <div class="sidebar-section">
+    <style>
+    .showhide {
+        display: none;
+    }
+    </style>
+    <div id="ad-01" class="sidebar-section showhide">
         <h5><span>Get Started With iCanada</span></h5>
         <a href="https://icanada.ph/get-started-icanada/?utm_source=yummytummyph&utm_medium=site&utm_campaign=ad"><img src="{{site.baseurl}}/assets/images/iCanada.jpg"></a>
     </div>
+    <div id="ad-02" class="sidebar-section showhide">
+        <h5><span>Travel Canada Virtually</span></h5>
+        <a href="https://www.youtube.com/@canadatravelguide?sub_confirmation=1&utm_source=yummytummyph&utm_medium=site&utm_campaign=ad"><img width="100%" src="https://yt3.googleusercontent.com/HNtKdhq41Un7WJRdenrekvJKtlOxqSjvwsL6OWneHx04Xu3Gb5i6iuDgCAFpx7zQvU3d0L9dPg=s176-c-k-c0x00ffffff-no-rj"></a>
+    </div>
 </div>
+
+<script type="text/javascript" language="JavaScript">
+    randomNumber = Math.floor(Math.random()*2+1);
+    window.onload = function() {
+         if (randomNumber == 1) {
+              document.getElementById("ad-01").style.display = "block";
+         }
+         if (randomNumber == 2) {
+              document.getElementById("ad-02").style.display = "block";
+         }         
+    }
+    //--></script>
