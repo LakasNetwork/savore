@@ -11,7 +11,7 @@ permalink: "/landing"
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
-<div id="mc_embed_signup" style="background-image: url('/assets/images/real-buhay-canada.jpg'); height: 700px;">
+<div id="mc_embed_signup" style="background-image: url('/assets/images/real-buhay-canada.jpg'); background-repeat: no-repeat; background-attachment: fixed; background-position: center;height: 700px;">
 	<div style="position: absolute; bottom: 0; background-color: #fff; opacity: 0.75;">
 	<form method="post" action="https://sendfox.com/form/1y6lyo/1rxv29" class="sendfox-form" id="1rxv29" data-async="true" data-recaptcha="false" style="padding: 5px 23px !important;">
 		<div id="mc_embed_signup_scroll">
