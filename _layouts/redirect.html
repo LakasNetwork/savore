@@ -1,0 +1,32 @@
+---
+layout: redirect
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>{{ page.title }}</title>
+<!-- change your GA id in _config.yml -->
+{% include googletagmanager.html %} 
+<meta http-equiv="refresh" content="3; URL={{page.redirect_page}}" />
+</head>
+<body>
+<style>
+div.center-middle {
+    text-align: center;
+    font-size: xx-large;
+    height: 10em;
+    position: relative }
+div.center-middle p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+</style>
+<div class="center-middle" style="">
+    <p>You will be redirected to</br>
+    <strong>{{ page.title }} </strong></p>
+</div>
+</body>
