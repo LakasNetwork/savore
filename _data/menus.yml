@@ -5,10 +5,10 @@ topmenu:
   url: ""
 
 - title: Yummy
-  url: "yummy/"
+  url: "yummy"
 
 - title: Tummy
-  url: "tummy/"
+  url: "tummy"
 
 
 #- title: About
