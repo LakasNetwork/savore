@@ -4,7 +4,7 @@ title:         "Generic Migration Advice <br>&nbsp;"
 description:   "I thought I'd share some generic advice here since I've been asked this question multiple times already. "
 date:          2023-04-01 18:54:00 -05:00:00
 author:        yt
-categories:    [ canada journey ]
+categories:    [ tummy, canada journey ]
 image:         assets/images/thumbnails/YT-006.jpg
 redirect_from:
   - /blog/6

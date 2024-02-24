@@ -9,7 +9,7 @@ cooking_time:     "10 mins"
 date:             2023-02-01 18:54:00 -05:00:00
 last_modified_at: 
 author:           alaine
-categories:       [ recipe ]
+categories:       [ yummy, recipe ]
 tags:             [ chicken, quick n' easy, snack ]
 image:            assets/images/recipes/Recipe-Sticky-Chicken-Wings.jpg
 redirect_from:

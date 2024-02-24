@@ -10,7 +10,7 @@ cooking_time:     "5 mins each"
 date:             2023-03-11 18:54:00 -05:00:00
 last_modified_at: 
 author:           yt
-categories:       [ recipe ]
+categories:       [ yummy, recipe ]
 tags:             [ meat ]
 image:            assets/images/recipes/Recipe-Burger.jpg
 redirect_from:

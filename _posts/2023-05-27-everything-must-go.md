@@ -4,7 +4,7 @@ title:          "Everything Must Go <br>&nbsp;"
 description:    "As you plan your move to 🇨🇦, don't forget to plan your move out of the 🇵🇭. Sell or Donate! Just make sure it aligns with your timeline."
 date:           2023-05-27 18:54:00 -05:00:00 
 author:         yt
-categories:     [ canada journey]
+categories:     [ tummy, canada journey ]
 tags:           [ CrazyJourneyBeforeTheCanadianJourney ]
 image:         assets/images/thumbnails/YT-008.jpg
 redirect_from:

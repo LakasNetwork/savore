@@ -4,7 +4,7 @@ title:          "Throwback to the start of our Canadian Journey"
 description:    "It's so much fun to reminisce about how it all started but, trust us, it was not as fun back then. 😳😳😳"
 date:           2023-04-19 18:54:00 -05:00:00 
 author:         yt
-categories:     [ canada journey]
+categories:     [ tummy, canada journey]
 tags:           [ iCanada, CrazyJourneyBeforeTheCanadianJourney ]
 image:         assets/images/thumbnails/YT-007.jpg
 redirect_from:
