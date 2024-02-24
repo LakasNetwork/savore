@@ -4,7 +4,7 @@ title:         "The Toughest Thing About This Journey"
 description:   "To help you prepare, we want to make sure we share the tough times that we've gone through. So you can prepare for them too."
 date:          2023-02-12 07:34:00 -05:00:00
 author:        yt
-categories:    [canada journey]
+categories:    [ tummy, canada journey ]
 image:         assets/images/thumbnails/YT-004.jpg
 redirect_from:
   - /blog/4

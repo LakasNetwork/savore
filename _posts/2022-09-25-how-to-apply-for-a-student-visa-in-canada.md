@@ -4,7 +4,7 @@ title:  "How to Apply for a Student Visa in Canada?"
 description: "Are you planning to get a student visa in Canada? Check out what documents you need to prepare for your journey. Good luck!"
 date:   2022-09-25 
 author: yt
-categories: [canada journey]
+categories: [ tummy, canada journey ]
 tags:       [ iCanada, Internation Student ]
 image: assets/images/thumbnails/YT-001.jpg
 redirect_from:

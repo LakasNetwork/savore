@@ -4,7 +4,7 @@ title: "Essential Cards in Your New Journey"
 description: "Once you have the things you NEED, here's a list of cards that'll make your journey more convenient."
 date:  2023-02-05 
 author: yt
-categories: [canada journey]
+categories: [ tummy, canada journey ]
 image: assets/images/thumbnails/YT-003.jpg
 published: true
 redirect_from:

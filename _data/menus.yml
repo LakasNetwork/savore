@@ -4,8 +4,15 @@ topmenu:
 - title: Home
   url: ""
 
-- title: About
-  url: "about/"
+- title: Yummy
+  url: "yummy/"
+
+- title: Tummy
+  url: "tummy/"
+
+
+#- title: About
+#  url: "about/"
 
 # - title: Contact
 #  url: "contact/"
