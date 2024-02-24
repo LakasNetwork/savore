@@ -5,6 +5,11 @@
         {% if post.image %} <img class="rounded mb-4" src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}"> {% endif %}
     </a>
     <div class="card-block">
+        <!--
+        { if post.categories contains "recipe" %}
+        <small class="card-text text-muted" style="font-size:smaller;">RECIPE</small>
+        { endif %}
+        -->
         <h2 class="card-title h4 serif-font"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
         <p class="card-text text-muted">{{ post.description | strip_html | truncatewords:30 }}</p>
         <div class="metafooter">
@@ -12,7 +17,7 @@
                 <span class="author-meta">
                 By  <span class="post-name"> {% if post.author %}{{ author.display_name }}{% else %}{{ site.author }}{% endif %}, </span>             
                 on <span class="post-date">{{ post.date | date_to_string }}</span>
-                </span>               
+                </span>        
                 <div class="clearfix"></div>
             </div>
         </div>
