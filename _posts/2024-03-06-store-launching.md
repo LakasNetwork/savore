@@ -7,7 +7,7 @@ author:        yt
 categories:    [ yummy ]
 image:         assets/images/thumbnails/YT-Shop-Closed.jpg
 redirect_from:
-  - 
+  - /blog/store
 ---
 
 

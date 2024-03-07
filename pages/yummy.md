@@ -6,7 +6,7 @@ corner: yummy
 ---
 
 <h1>Welcome to Yummy's Corner</h1>
-<div class="row bg-dark bg-gradient text-light">
+<div class="row bg-light border border-dark">
     <div class="col-12 col-lg-3 col-sm-6 col-xs-6 pt-1" ><img src="/assets/images/profile-yummy-chefalaine-transparent.png"></div>
     <div class="col-12 col-lg-9 col-sm-6 col-xs-6 p-3">
     <p><strong>Hi! I'm Chef Alaine</strong>. 👩🏻‍🍳</p> 
