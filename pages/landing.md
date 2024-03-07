@@ -17,7 +17,7 @@ permalink: "/landing"
 		<div id="mc_embed_signup_scroll">
 			<h2>Want to know the real Buhay Canada?</h2>
 			<p>
-				Hear stories and learn from those who've left the comfort of their homes to embark on the journey to the great north!
+				Hear stories and learn from those who've left the comfort of their homes to embark on the journey to the Great North!
 			</p>
 		</div>
 		<div class="mc-field-group" style="padding-bottom: 0px;">
