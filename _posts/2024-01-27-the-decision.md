@@ -6,7 +6,7 @@ date:   2024-01-27
 author: rye
 categories: [ tummy, canada journey]
 tags:       [ TIC, The Immigrant Chronicles ]
-image: assets/images/thumbnails/YT-001.jpg
+image: assets/images/thumbnails/TIC-Blue.jpg
 redirect_from:
   - /tic/2
 ---
