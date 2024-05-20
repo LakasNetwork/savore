@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Decision"
-description: "Join us on a lighthearted yet heartwarming journey into the lives of immigrants from all over the world."
+description: "Hey there, podcast pals! 🎙️ In this second episode, we will discuss the important factors to consider ..."
 date:   2024-01-27
 author: rye
 categories: [ tummy, canada journey]
