@@ -9,7 +9,7 @@ tags:       [ TIC, The Immigrant Chronicles ]
 image: assets/images/thumbnails/YT-001.jpg
 redirect_from:
   - /canada%20journey/2024/01/20/the-immigrant-chronicles.html
-  - /blog/1
+  - /tic/1
 ---
 
 Today, we are launching The Immigrant Chronicles podcast! 🎙️
@@ -20,5 +20,9 @@ Discover inspirational stories on Immigrant Chronicles. Join us on a lighthearte
 
 Relax, tune in, and let's embark on this joyous adventure together!
 
-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5CBgRuqL5hiH0dkydVhSRd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Hey there, podcast pals! 🎙️Welcome the Immigrant Chronicles. The first episode is all about inviting you to go on this journey with us and to let you know what you can expect from us. See you in the next ones. 😍
+
+---
+Send in a voice message: https://podcasters.spotify.com/pod/show/the-immigrant-chronicles/message
