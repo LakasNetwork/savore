@@ -10,6 +10,9 @@ topmenu:
 - title: Tummy
   url: "tummy"
 
+- title: Foodies
+  url: "foodies"
+
 
 #- title: About
 #  url: "about/"

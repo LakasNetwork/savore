@@ -4,7 +4,7 @@ title:  "Welcome to The Immigrant Chronicles"
 description: "Join us on a lighthearted yet heartwarming journey into the lives of immigrants from all over the world."
 date:   2024-01-20 
 author: rye
-categories: [ tummy, canada journey]
+categories: [ tummy, canada journey ]
 tags:       [ TIC, The Immigrant Chronicles ]
 image: assets/images/thumbnails/TIC.jpg
 redirect_from:
