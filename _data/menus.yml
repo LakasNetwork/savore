@@ -4,14 +4,14 @@ topmenu:
 - title: Home
   url: ""
 
-- title: Yummy
-  url: "yummy"
+#- title: Yummy
+#  url: "yummy"
 
-- title: Tummy
-  url: "tummy"
+#- title: Tummy
+#  url: "tummy"
 
-- title: Foodies
-  url: "foodies"
+#- title: Foodies
+#  url: "foodies"
 
 
 #- title: About

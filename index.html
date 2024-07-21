@@ -6,52 +6,59 @@ background: '/img/bg-index.jpg'
 
 <!-- Home Intro
 ================================================== -->
-{% if page.url == "/" %} 
+{% if page.url == "/" %}
 <div class="rounded mb-5 hero">
   <div class="row align-items-center justify-content-between">
-    <div class="col-md-6">
-      <h1 class="font-weight-bold mb-4 serif-font">Let us share our journey with you</h1>
-      <p class="lead mb-4">We are Chef Alaine and Coach Rye and we're here to share our culinary and migration journey with you.</p>
-      <div class="row">
-        <div class="col-lg-6 text-center">
-          <a href="{{site.baseurl}}/yummy" class="btn text-white px-5 btn-lg m-1 lh-1" id="btnYummy">
-            <strong>Yummy's</strong><small><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Daily Tales&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</small></a>    
-        </div>
-        <div class="col-lg-6 text-center">
-          <a href="{{site.baseurl}}/tummy" class="btn btn-primary text-white px-5 btn-lg m-1 lh-1">
-            <strong>Tummy's</strong><small><br>&nbsp;&nbsp;Immigrant Chronicles&nbsp;&nbsp;</small></a>
-        </div>
+    <h1 class="font-weight-bold mb-4 serif-font">Thank You for the Delicious
+      Memories!</h1>
+      <div class="col-md-8">
+        <p class="lead mb-4">
+          Dear Foodie Friends,<br /><br />
+          After an incredible journey of sharing our foodie adventures and serving
+          you with our delicious food products, we have decided to close
+          yummytummy.ph. We are immensely grateful for your support, engagement,
+          and love over the years. Your enthusiasm and patronage have made this
+          journey truly special.<br /><br />
+          Thank you for being a part of our foodie family and supporting all
+          aspects of our journey!<br /><br />
+          With heartfelt gratitude,<br />Yummy & Tummy
+        </p>
       </div>
-      <div class="row">
-        <div class="col-lg-12 text-center">
-          <a href="{{site.baseurl}}/foodies" class="btn btn-danger text-white px-5 btn-lg m-1 lh-1">
-            <strong>YummyTummy's</strong><small><br>Food Explorations</small></a>
-        </div>
+      <div class="col-md-4">
+        <img src="assets/images/YT.jpg">
       </div>
-    </div>
-    <div class="col-md-6 text-right pl-0 pl-lg-4">
-      <img class="intro" height="500" src="{{site.baseurl}}/assets/images/yt-about.jpg" alt="Yummy and Tummy under Snow">      
     </div>
   </div>
-</div>
-<style>
-  #btnYummy {
-    background-color: #d63384;
-    border-color: #d63384;
-}
-</style>
-{% endif %}
+  <div class="rounded mb-5" style="background-color: #3EA9EB;">
+    
+    <div class="row align-items-center justify-content-between">
+      <div class="col-md-12 p-5">
+        <img src="assets/images/memories/1.jpg"><br/>
+        <img class="mt-5" src="assets/images/memories/2.jpg"><br/>
+        <img class="mt-5" src="assets/images/memories/3.jpg"><br/>
+        <img class="mt-5" src="assets/images/memories/4.jpg"><br/>
+        <img class="mt-5" src="assets/images/memories/5.jpg"><br/>
+        <img class="mt-5" src="assets/images/memories/6.jpg"><br/>
+        <img class="mt-5" src="assets/images/memories/7.jpg"><br/>
+        <img class="mt-5" src="assets/images/memories/8.jpg"><br/>
+        <img class="mt-5" src="assets/images/memories/9.jpg"><br/>
+        <img class="mt-5" src="assets/images/memories/10.jpg"><br/>
 
-<!-- Featured
-================================================== -->
-<section class="row">
-  {% for post in site.posts %}
-      {% if post.featured == true %}
-          <div class="col-md-4 mb-5">
-          {% include postbox.html %}
-          </div>
-      {% endif %}
-  {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  
+  <!-- Featured
+  ================================================== -->
+  <section class="row">
+    {% for post in site.posts %}
+    {% if post.featured == true %}
+    <div class="col-md-4 mb-5">
+      {% include postbox.html %}
+    </div>
+    {% endif %}
+    {% endfor %}
   </div>
 </section>
 
@@ -72,7 +79,7 @@ background: '/img/bg-index.jpg'
     <!-- Pagination -->
     <div class="bottompagination">
       <span class="navigation" role="navigation">
-          {% include pagination.html %}
+        {% include pagination.html %}
       </span>
     </div>
   </div>
