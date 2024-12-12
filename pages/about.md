@@ -1,34 +1,9 @@
 ---
 layout: page
-title: Yummy and Tummy
+title: About Savoré
 permalink: "/about/"
 ---
 
-Hi! We are Yummy (Chef Alaine) and Tummy (Coach Rye). 
+At Savoré, we believe that great flavor is more than just taste—it’s an experience worth savoring. Every drop of our artisanal sauces is crafted with passion, using thoughtfully selected ingredients and time-honored techniques. Whether you’re spicing up a family favorite or exploring bold new recipes, Savoré elevates every meal into a moment to cherish.
 
-![Chef & Coach in Niagara](/assets/images/yt-about.jpg)
-
-We overhauled this site when we decided to move from The Philippines 🇵🇭 to Canada 🇨🇦. We hope this will help those are who on the same journey, or those thinking of doing it as well. 
-
-<table>
-<tr>
-<td class="tdabout aboutchef">👩🏻‍🍳 Hi! Chef Alaine here. If you want to get to know me more, check out my portfolio <a href="/chefalaine">here</a>.</td>
-<td class="tdabout aboutcoach">👨🏻‍💻 Hello! This is Coach Rye. Feel free to check out my <a href="https://coachrye.com/about" target="_blank">website</a> to know more about me. 
-</td>
-</tr>
-</table>
-
-<style>
-.tdabout {
-    width: 50%;
-    padding: 1.0rem;
-}
-.aboutchef {
-    background-color: #8D569D;
-    color: #fff;
-}
-.aboutcoach {
-    background-color: #3EA9EB;
-    color: #fff;
-}
-</style>
+<strong>Savor Every Drop.</strong>
