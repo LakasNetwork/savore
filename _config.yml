@@ -1,16 +1,17 @@
-title: "Yummy & Tummy"
-email: admin@yummytummy.ph
+title: "Savoré"
+email: alaine.camaso@gmail.com
 timezone: UTC
 baseurl: ""
 # permalink: "/:title/"
 permalink: :name
+preview: 'assets/images/preview.jpg'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: yt
+author: savore
 paginate: 30
 disqus: 'coachrye'
-locale: en_us
-lang: en_us
+locale: en_ca
+lang: en_ca
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
