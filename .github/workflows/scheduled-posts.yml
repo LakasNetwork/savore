@@ -34,6 +34,9 @@ jobs:
           destination: ./_site
       - name: "Upload Node Modules - v4"
         uses: actions/upload-artifact@v4
+        with:
+          path: ./_site
+          name: github-pages
 
   # Deployment job
   deploy:
