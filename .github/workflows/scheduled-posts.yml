@@ -29,8 +29,9 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2  # ✅ Correct action
+      - uses: actions/upload-artifact@v4
+        with:
+          path: ./_site
 
   deploy:
     environment:
