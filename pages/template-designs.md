@@ -24,7 +24,7 @@ button[type=button] {
 <div class="container text-center">
   <div class="row">
     <div class="col-sm-12 m-2">
-        <a href="http://stackoverflow.com"><button type="button" class="btn btn-primary">Primary</button></a>
+        <a href="https://stackoverflow.com"><button type="button" class="btn btn-primary">Primary</button></a>
     </div>
     <div class="col-sm-12 m-2">
         <button type="button" class="btn btn-secondary">Secondary</button>
